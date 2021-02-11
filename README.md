@@ -6,7 +6,7 @@ Research regarding common and developing ring-0 kernel driver and their local se
 
 As I start this well-treaded path, I want to personally understand the rings of privellege for Microsoft Windows and be able to apply my understanding to newly developed ring-0 drivers.
 
-### Outline
+### Outline :construction:
 
 * What is the Windows Kernel?
   * Ring-0 drivers?
@@ -21,6 +21,6 @@ As I start this well-treaded path, I want to personally understand the rings of 
 
 
 
-## Vanguard
+## Vanguard :closed_lock_with_key:
 
 One of the better known and recent news-worthy kernel drivers is Riot Games' anti-cheat Vanguard. A semi-direct end goal would be to disect this driver and see if I could initiate some kind of local privllege escalation through it or impede its intended anti-cheat behavior.
