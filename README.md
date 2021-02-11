@@ -14,6 +14,7 @@ As I start this well-treaded path, I want to personally understand the rings of 
 * Anatomy of a kernel driver
 * Past security flaws of these drivers
  * __Root-kit functionality__
+  * Malware analysis of historic rootkits
 * Security patches/implementations to eliminate flaws
 * Application of my knowledge to Vanguard, Riot Games' anti-cheat ring-0 driver
 * Report on my findings
