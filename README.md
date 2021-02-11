@@ -18,6 +18,8 @@ As I start this well-treaded path, I want to personally understand the rings of 
 * Application of my knowledge to Vanguard, Riot Games' anti-cheat ring-0 driver
 * Report on my findings
 
+
+
 ## Vanguard
 
 One of the better known and recent news-worthy kernel drivers is Riot Games' anti-cheat Vanguard. A semi-direct end goal would be to disect this driver and see if I could initiate some kind of local privllege escalation through it or impede its intended anti-cheat behavior.
