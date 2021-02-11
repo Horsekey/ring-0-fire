@@ -19,6 +19,8 @@ As I start this well-treaded path, I want to personally understand the rings of 
 * Application of my knowledge to Vanguard, Riot Games' anti-cheat ring-0 driver
 * Report on my findings
 
+> To-do information is found in the projects tab
+> Any updates to version will be located there
 
 
 ## Vanguard :closed_lock_with_key:
