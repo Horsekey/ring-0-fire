@@ -33,7 +33,7 @@ The general purpose of this project is to learn more about the protection ring o
 
 One of the better known and recent news-worthy kernel drivers is Riot Games' anti-cheat Vanguard. A semi-direct end goal would be to disect this driver and see if I could initiate some kind of local privllege escalation through it or impede its intended anti-cheat behavior.
 
-### Approach <\_:goberserk:\_>
+### Approach \:goberserk:/
 
 > Coming soon...
 
