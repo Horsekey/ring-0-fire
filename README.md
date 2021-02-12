@@ -25,8 +25,15 @@ As I start this well-treaded path, I want to personally understand the rings of 
 > Any updates to version will be located there
 
 ### Purpose :eye:
-The general purpose of this project is to learn more about the protection ring of Windows, specifically ring-0 drivers, and its relationship regarding security. (i.e. principle of least privllege etc.).
+The general purpose of this project is to learn more about the protection ring of Windows, specifically ring-0 drivers, and its relationship regarding security. (i.e. principle of least privllege etc.). Dissecting this ring and the control it has over different parts of the computer is extremely essential to continue or enchance this model further. This is an area that I have little to no knowledge in and I am geniunely curious about how this technology works securely.
 
-## Vanguard :closed_lock_with_key:
+### Objective :target:
+
+**Vanguard** :closed_lock_with_key:
 
 One of the better known and recent news-worthy kernel drivers is Riot Games' anti-cheat Vanguard. A semi-direct end goal would be to disect this driver and see if I could initiate some kind of local privllege escalation through it or impede its intended anti-cheat behavior.
+
+### Approach :goberserk:
+
+> Coming soon...
+
