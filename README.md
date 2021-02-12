@@ -23,7 +23,7 @@ As I start this well-treaded path, I want to personally understand the rings of 
 > Any updates to version will be located there
 
 ### Purpose :eye:
-The general purpose of this project is to learn more about the protection ring of Windows, specifically ring-0 drivers, and their purpose related to security. (i.e. principle of least privllege etc.) 
+The general purpose of this project is to learn more about the protection ring of Windows, specifically ring-0 drivers, and its relationship regarding security. (i.e. principle of least privllege etc.).
 
 ## Vanguard :closed_lock_with_key:
 
