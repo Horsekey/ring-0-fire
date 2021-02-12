@@ -1,6 +1,8 @@
 # Ring-0-Fire :fire:
 
 Research regarding common and developing ring-0 kernel driver and their local security complications
+Author: Reed Huskey
+Date: 2-11-2021
 
 ## Research Goals
 
