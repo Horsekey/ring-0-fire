@@ -4,6 +4,7 @@
 
 ### Capcom iotcl (disables SMEP)
   - [Zerosum0x0 (2017)](https://zerosum0x0.blogspot.com/2017/07/puppet-strings-dirty-secret-for-free.html)
+  - [ioctl documentation](https://man7.org/linux/man-pages/man2/ioctl.2.html)
 
 ### Account control abuse
   - [Detailed repo (updated 2 months ago)](https://github.com/hfiref0x/UACME)
