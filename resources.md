@@ -17,3 +17,6 @@
 
 ### Zero-day kernel exploit
   - [CVE-2021-1732](https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/)
+
+### Replicable Windows Kernel Ps Callback Experiment
+  - [Shut up and hack](http://deniable.org/posts/windows-callbacks/)
