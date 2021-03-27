@@ -20,3 +20,6 @@
 
 ### Replicable Windows Kernel Ps Callback Experiment
   - [Shut up and hack](http://deniable.org/posts/windows-callbacks/)
+
+### Linux Device Driver Book
+  - [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
